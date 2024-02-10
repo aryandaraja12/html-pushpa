@@ -1,1 +1,11 @@
-# html-pushpa
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <video src="aryan.mp4"  controls loop height="315" width="560">my video</video> 
+</body>
+</html>
