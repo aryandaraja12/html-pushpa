@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-  <video src="aryan.mp4"  controls loop height="315" width="560">my video</video> 
+  my video 
 </body>
 </html>
